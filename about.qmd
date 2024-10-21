@@ -1,30 +1,28 @@
 ---
-title: "About Me"
+title: "About Me <3 "
 sidebar: false 
 ---
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
 
-# Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Grebo Otomotiv Sanayi A.S.,Quality Control Intern, 03/07/2023-28/07/2023
 
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+2.  TurkTraktor ve Ziraat Makineleri A.S.,Planning and Change Management Intern , 01/07/2024-29/07/2024
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, MATLAB, MS Office Programs
 
 # Hobbies
+Volleyball , Reading
+
+## Resume 
+
+[Download my CV](FİRDEVS ELİF BATUR CV 2024.pdf)
+

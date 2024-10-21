@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "Hello! My name is xxx xxxx.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "Hello! My name is Firdevs Elif Batur.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About Me <3",
     "section": "",
-    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing."
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.\n\n\n\n\nGrebo Otomotiv Sanayi A.S.,Quality Control Intern, 03/07/2023-28/07/2023\nTurkTraktor ve Ziraat Makineleri A.S.,Planning and Change Management Intern , 01/07/2024-29/07/2024"
   },
   {
     "objectID": "about.html#employements",
@@ -37,9 +37,9 @@
   {
     "objectID": "about.html#internships",
     "href": "about.html#internships",
-    "title": "About Me",
-    "section": "Internships",
-    "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
+    "title": "About Me <3",
+    "section": "",
+    "text": "Grebo Otomotiv Sanayi A.S.,Quality Control Intern, 03/07/2023-28/07/2023\nTurkTraktor ve Ziraat Makineleri A.S.,Planning and Change Management Intern , 01/07/2024-29/07/2024"
   },
   {
     "objectID": "assignments/assignment-1.html",
@@ -61,5 +61,82 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About Me <3",
+    "section": "Resume",
+    "text": "Resume\nDownload my CV"
+  },
+  {
+    "objectID": "kjgjk/index.html",
+    "href": "kjgjk/index.html",
+    "title": "kjgjk",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/project.html",
+    "href": "emu430-fall2024-firdevsbtr/project.html",
+    "title": "Our Course Project",
+    "section": "",
+    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/index.html",
+    "href": "emu430-fall2024-firdevsbtr/index.html",
+    "title": "Welcome to My Analytics Lab",
+    "section": "",
+    "text": "Hello! My name is Firdevs Elif Batur.\nThis is my personal webpage &lt;3.\nStay connected to explore my work on data analytics, blog posts, and much more!\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/assignments/assignment-2.html",
+    "href": "emu430-fall2024-firdevsbtr/assignments/assignment-2.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Assignment 2\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/about.html",
+    "href": "emu430-fall2024-firdevsbtr/about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing."
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/about.html#internships",
+    "href": "emu430-fall2024-firdevsbtr/about.html#internships",
+    "title": "About Me",
+    "section": "Internships",
+    "text": "Internships\n\nGrebo Automotive Inc., Quality Control Intern, 2023\nTurkTraktor Agrıculture Machinery Co., Central Planning Intern, 20204"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/assignments/assignment-1.html",
+    "href": "emu430-fall2024-firdevsbtr/assignments/assignment-1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts."
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/assignments.html",
+    "href": "emu430-fall2024-firdevsbtr/assignments.html",
+    "title": "My Assignments",
+    "section": "",
+    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2024] EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 10, 2024\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "emu430-fall2024-firdevsbtr/posts.html",
+    "href": "emu430-fall2024-firdevsbtr/posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "kjgjk/about.html",
+    "href": "kjgjk/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   }
 ]
