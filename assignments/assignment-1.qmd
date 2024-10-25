@@ -1,15 +1,98 @@
 ---
 title: "Assignment 1"
 ---
+```{r, echo = FALSE,error=FALSE,results="hide" }
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+```
+
+
+``````{r, echo = FALSE,error=FALSE, results="hide" }
+install.packages("rmarkdown")
+install.packages("knitr")
+install.packages("evaluate")
+```
+
 
 # Assignment 1
-
-```{r}
-1 + 1
-```
 
 My first assignment has two parts.
 
 ## (a) 
+Decision-Making Process
+
+1Problem Identification and Defining the Situation: The first step is to clearly define the problem or situation that requires a decision and set the objectives.
+
+2.Identifying Causes: The causes of the problem or situation are analyzed to understand the root of the issue.
+
+3.Collecting Data and Information: Relevant data and information are gathered to ensure informed decision-making.
+
+4.Identifying and Evaluating Alternatives: Possible solutions are identified, and the potential outcomes of each alternative are evaluated. The most effective, beneficial, and feasible solution is selected.
+
+Mustafa Bey's problem concerns the warping of lumber. In the decision-making process, he followed these steps:
+
+1.Problem Identification and Defining the Objective: The issue of the lumber warping was clearly defined.
+
+2.Identifying Causes: The potential causes of the problem were investigated.
+
+3.Data Collection: Necessary information and data related to the warping issue were gathered.
+
+4.Identifying and Selecting Alternatives: Alternative solutions were identified, and the most effective and feasible one was selected.
+
+To solve this issue, Mustafa Bey performed feature extraction and then applied machine learning. The results were visualized, with red being used for emphasis.
+
+
+When comparing traditional learning methods with deep learning, traditional methods are generally more interpretable, while deep learning can be more complex and harder to explain. The choice of method in decision-making processes often depends on the following critical factors:
+
+-Interpretability: The ability to easily explain decisions, especially in line with regulations and needs.
+
+-Guidance Capability: How well the system can provide direction based on the inputs it receives.
+Robustness: How resilient the solution is to external factors.
+
+-Turning Predictions into Decisions: The ability to transform predictions into actionable and feasible decisions.
+
+Each of these factors highlights the importance of prediction accuracy, particularly in the context of electricity market operations and demand-consumption analyses.
+
 
 ## (b)
+```{r}
+install.packages("dslabs")
+library(dslabs)
+data("polls_us_election_2016")
+```
+
+```{r}
+head(polls_us_election_2016, 10)
+```
+
+```{r}
+total_na <- sum(is.na(polls_us_election_2016))
+total_na
+
+```
+```{r}
+library(dslabs)
+data("polls_us_election_2016")
+modified_data <- polls_us_election_2016
+
+birth_year <- 2004
+first_name <- "firdevs"
+
+
+for (col in names(modified_data)) {
+  if (is.numeric(modified_data[[col]])) {
+    modified_data[[col]][is.na(modified_data[[col]])] <- birth_year
+  } else if (is.character(modified_data[[col]]) || is.factor(modified_data[[col]])) {
+    
+    if (is.factor(modified_data[[col]])) {
+      modified_data[[col]] <- factor(modified_data[[col]], levels = c(levels(modified_data[[col]]), first_name))
+    }
+   
+    modified_data[[col]][is.na(modified_data[[col]])] <- first_name
+  }
+}
+```
+```{r}
+remaining_na <- sum(is.na(modified_data))
+remaining_na
+```
+

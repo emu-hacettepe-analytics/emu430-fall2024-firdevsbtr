@@ -11,18 +11,20 @@ sidebar: false
 
 ## Internships
 
-1.  Grebo Otomotiv Sanayi A.S.,Quality Control Intern, 03/07/2023-28/07/2023
+1.  Grebo Automotive Co.,Quality Control Intern, 03/07/2023-28/07/2023
 
-2.  TurkTraktor ve Ziraat Makineleri A.S.,Planning and Change Management Intern , 01/07/2024-29/07/2024
+2.  TurkTraktor Agricultral Machinery Co. A.S.,Planning and Change Management Intern , 01/07/2024-29/07/2024
 
 # Competencies
 
 R, Quarto, Git, Python, MATLAB, MS Office Programs
 
 # Hobbies
-Volleyball , Reading
+Volleyball , Reading , Hiking
 
 ## Resume 
 
-[Download my CV](FİRDEVS ELİF BATUR CV 2024.pdf)
+[Download my CV](Firdevs_Elif_Batur_CV_2024.pdf)
+
+
 

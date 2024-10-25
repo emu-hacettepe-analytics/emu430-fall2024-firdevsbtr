@@ -1,0 +1,28 @@
+/* @charset "UTF-8"; */
+body {
+  background-color: #f0f0f0; /* Açık gri bir arka plan rengi */
+  color: #333; /* Koyu gri yazı rengi */
+}
+
+h1, h2, h3 {
+  font-family: Arial, sans-serif; /* Başlıklar için yazı tipi */
+}
+
+a {
+  color: #0066cc; /* Linklerin varsayılan rengi */
+}
+
+/* Navbar stilini değiştirmek için */
+.navbar {
+  background-color: #d8bfd8; /* Daha koyu lila renk */
+  border-bottom: 1px solid #cda8cd; /* Daha koyu lila alt kenar için */
+}
+
+.navbar a {
+  color: #800080; /* Bağlantı yazılarının rengi, mor */
+}
+
+.navbar a:hover {
+  color: #5c5c8a; /* Bağlantı üzerine gelindiğinde rengi değiştirir */
+} 
+
