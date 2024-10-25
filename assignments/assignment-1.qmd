@@ -52,12 +52,14 @@ Robustness: How resilient the solution is to external factors.
 
 Each of these factors highlights the importance of prediction accuracy, particularly in the context of electricity market operations and demand-consumption analyses.
 
-
 ## (b)
-```{r}
+
+```{r, include=FALSE}
+
 install.packages("dslabs")
 library(dslabs)
 data("polls_us_election_2016")
+
 ```
 
 ```{r}
@@ -69,6 +71,8 @@ total_na <- sum(is.na(polls_us_election_2016))
 total_na
 
 ```
+
+
 ```{r}
 library(dslabs)
 data("polls_us_election_2016")
@@ -91,6 +95,7 @@ for (col in names(modified_data)) {
   }
 }
 ```
+
 ```{r}
 remaining_na <- sum(is.na(modified_data))
 remaining_na
