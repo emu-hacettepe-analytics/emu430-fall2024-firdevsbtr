@@ -2,7 +2,15 @@
 title: "About Me <3 "
 sidebar: false 
 ---
-
+*I am a third year student at Hacettepe University Industrial Engineering.
+ Throughout my academic career, I acquired my basic knowledge and skills by taking various courses in the field of
+ industrial engineering. During this process, I developed an in-depth understanding of issues such as operational
+ excellence, process improvement and productivity enhancement. In addition, I am constantly improving my problem
+ solving, analytical thinking and teamwork skills. Additionally, thanks to my communication skills, I believe that I can
+ communicate effectively with stakeholders both within the team and outside the company. With my leadership skills
+ and capacity to take responsibility, I aim to contribute to the company's achievement of its goals by taking an active
+ role in projects.
+ 
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
@@ -24,7 +32,7 @@ Volleyball , Reading , Hiking
 
 ## Resume 
 
-[Download my CV](Firdevs_Elif_Batur_CV_2024.pdf)
+[Download my CV](Firdevs_Elif_Batur_CV_2024.pdf.pdf)
 
 
 

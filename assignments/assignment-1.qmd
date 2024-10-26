@@ -1,5 +1,6 @@
 ---
 title: "Assignment 1"
+format: html
 ---
 ```{r, echo = FALSE,error=FALSE,results="hide" }
 options(repos = c(CRAN = "https://cran.rstudio.com/"))
